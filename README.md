@@ -3,6 +3,7 @@
 Steps to run:
 
 1. !pip uninstall tensorflow 
+
    !pip install tensorflow-gpu
 
 2. !pip list | grep tensor  ( check that tensorflow-gpu 2.x is installed)
