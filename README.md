@@ -11,4 +11,4 @@ Steps to run:
 
 3. !git clone  https://github.com/SohamJorapur/nottuswaram_gan.git
 
-4. ! export CUDA_VISIBLE_DEVICES="0"; python ./wavegan2/train_wavegan.py train ./train 	--data_dir ./wavegan2/data/
+4. ! export CUDA_VISIBLE_DEVICES="0"; python ./nottuswaram_gan/train_wavegan.py train ./train 	--data_dir ./nottuswaram_gan/data/
